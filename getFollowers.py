@@ -3,8 +3,8 @@ import csv
 import time
 
 # Enter your user details
-username = "sarahdal"
-instance = "https://crispsandwi.ch"
+username = "user"
+instance = "instance"
 
 # Preparations
 print("Getting account ID from the given username...")
