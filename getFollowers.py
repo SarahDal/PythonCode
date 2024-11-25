@@ -1,3 +1,4 @@
+#Get your mastodon followers and the last time they posted
 import requests
 import csv
 import time
